@@ -161,7 +161,7 @@ export default function Home() {
       }
 
     <div className={styles.footer}>
-      by Kaley Tsang @ 2023
+      by Kaley Tsang  ©  2023
     </div>
 
       </main>

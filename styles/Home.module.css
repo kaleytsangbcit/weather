@@ -179,8 +179,8 @@
 .footer {
   font-size: 18px;
   align-items: center;
-  margin-top: 6em;
-
+  margin: 6em;
+  color:rgb(55, 55, 55)
 }
 
 /* Mobile */
