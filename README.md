@@ -25,10 +25,7 @@ Open Weather API
 https://openweathermap.org/
 
 ## Tools / Language using
-React
-Google Font
-Axios
-useState
+React, Google Font, Axios, useState
 
 ## Deploy on Vercel
 
