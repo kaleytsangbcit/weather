@@ -159,6 +159,11 @@ export default function Home() {
 
         </> : null
       }
+
+    <div className={styles.footer}>
+      by Kaley Tsang @ 2023
+    </div>
+    
       </main>
     </>
   )
