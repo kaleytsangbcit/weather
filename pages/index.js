@@ -137,10 +137,10 @@ export default function Home() {
             <div className={styles.highlowtemp}>
                 <div className={styles.lowtemp}>
                   <div className={styles.lowtext}>Lowest: </div>
-                  {lowtemp}  °C</div>
+                  {hightemp}  °C</div>
                 <div classname={styles.hightemp}>
                 <div className={styles.hightext}>Highest: </div>
-                {hightemp} °C</div>
+                {lowtemp} °C</div>
             </div>   
 
             <div className={styles.wind}>
